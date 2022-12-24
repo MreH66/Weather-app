@@ -1,0 +1,129 @@
+body {
+  background-color: #FAF7F0;
+  padding: 0;
+}
+
+.sve {
+  position: fixed;
+  top: 48%;
+left: 50%;
+ transform: translate(-50%, -50%);
+padding: 100px;
+
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+  background-color: #256D85;
+  border: 2px solid #256D85;
+    border-radius: 12px;
+
+}
+
+h1 {
+}
+
+.boja {
+  background-color: #DFF6FF;
+    padding: 1px;
+width: 750px;
+height: 350px;
+
+position: fixed;
+top: 48%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: -1;
+
+border: 2px solid;
+  border-radius: 12px;
+
+}
+
+
+.glava {
+  font-family: 'Lobster', cursive;
+  position: relative;
+  left: 55px;
+
+}
+
+.glava1 {
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
+text-align: center;
+position: relative;
+top: 50px;
+}
+
+.glava3 {
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
+text-align: center;
+position: relative;
+top: 50px;
+}
+
+.linija {
+  background-color: inherit;
+  border: none;
+   border-bottom: 2px solid black;
+ padding: 12px 20px;
+ font-size:20px;;
+
+}
+.dugme {
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 10px  25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.dugme:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.dugme:active {
+  opacity: 0.8;
+}
+
+
+.end {
+  background-color:#256D85;
+position: absolute;
+bottom: 0;
+width: 1900px;
+padding-top: 5px;
+}
+
+.paragraf1 {
+padding: 10px;
+  color: white;
+      cursor: pointer;
+      text-decoration: none;
+}
+
+.paragraf2 {
+  padding: 10px;
+    color: white;
+        cursor: pointer;
+        text-decoration: none;
+}
+
+.slika {
+  position: absolute;
+  top: 180px;
+  left: 1100px;
+  max-width: 40%;
+max-height: 40%;
+
+}
