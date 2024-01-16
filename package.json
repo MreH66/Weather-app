@@ -1,12 +1,12 @@
 {
-  "name": "vreme",
+  "name": "weather",
   "version": "1.0.0",
-  "description": "Vreme",
-  "main": "vreme.js",
+  "description": "weather",
+  "main": "weather.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marko G",
+  "author": "Marko",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
